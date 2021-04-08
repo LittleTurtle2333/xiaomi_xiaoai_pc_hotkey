@@ -1,10 +1,11 @@
-×÷Õß£º¿á°²@ÎÚ¶ÑĞ¡Í¸Ã÷/Github@LittleTurtle2333
-¿ªÔ´£ºhttps://github.com/LittleTurtle2333/xiaomi_xiaoai_pc_hotkey
+ä½œè€…ï¼šé…·å®‰@ä¹Œå †å°é€æ˜/Github@LittleTurtle2333
+å¼€æºï¼šhttps://github.com/LittleTurtle2333/xiaomi_xiaoai_pc_hotkey
 
-Ê¹ÓÃ°ïÖú£º
-ÏÈ´Ó¿ªÊ¼²Ëµ¥½«Ğ¡°®Í¬Ñ§ÒÆ¶¯ÖÁ×ÀÃæ£¬Èç¹ûÄãÊÇÇ¿ÆÈÖ¢¿ÉÒÔ·Åµ½×ÀÃæºóÒş²Ø¿ì½İ·½Ê½
-Win+RÊäÈëC:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
-½«Ğ¡°®Í¬Ñ§¿ì½İ¼ü.exe¸´ÖÆ½øÈ¥¿É¿ª»ú×ÔÆô¡£
+ä½¿ç”¨å¸®åŠ©ï¼š
+å…ˆä»å¼€å§‹èœå•å°†å°çˆ±åŒå­¦ç§»åŠ¨è‡³æ¡Œé¢ï¼Œå¦‚æœä½ æ˜¯å¼ºè¿«ç—‡å¯ä»¥æ”¾åˆ°æ¡Œé¢åéšè—å¿«æ·æ–¹å¼
+Win+Rè¾“å…¥C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+ï¼ˆå¯é€‰ï¼‰åŒå‡»"ç¦ç”¨cortana.reg"ç„¶åé‡å¯
+å°†å°çˆ±åŒå­¦å¿«æ·é”®.exeå¤åˆ¶è¿›å»å¯å¼€æœºè‡ªå¯ã€‚
 
-ÊµÏÖÔ­Àí£º
-Ç¿ÖÆÖØ¶¨ÏòĞ¡ÄÈ¿ì½İ¼ü£¨Win+C£©
+å®ç°åŸç†ï¼š
+å¼ºåˆ¶é‡å®šå‘å°å¨œå¿«æ·é”®ï¼ˆWin+Cï¼‰
