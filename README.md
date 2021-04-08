@@ -6,7 +6,7 @@
 使用帮助：  
 先从开始菜单将小爱同学移动至桌面，如果你是强迫症可以放到桌面后隐藏快捷方式  
 Win+R输入C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  
-（可选）双击"禁用cortana.reg"然后重启
+（可选）双击"禁用cortana.reg"然后重启  
 将小爱同学快捷键.exe复制进去可开机自启。  
 
 实现原理：  
